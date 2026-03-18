@@ -34,7 +34,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 
-
 $catStmt = $conn->query("SELECT * FROM categories");
 
 include 'includes/header.php';
