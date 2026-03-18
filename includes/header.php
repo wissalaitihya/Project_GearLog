@@ -27,5 +27,6 @@
         </div>
     </div>
 </nav>
+<a href="logout.php" class="btn btn-danger ms-2">Logout</a>
 
 <div class="container">
